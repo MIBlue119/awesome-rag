@@ -53,6 +53,7 @@ Some collections about Retrieval Augmented Generation resources
 - [Pinecone's example](https://docs.pinecone.io/page/examples)
 - [Weaviate's RAG chatbot](https://github.com/weaviate/Verba)
 - [llamaindex-chat-with-streamlit-docs](https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs)
+- [Biblos - Bible Exploration with Vector Search and Summarization](https://github.com/dssjon/biblos)
 
 ### Production Level Examples
 - [W&B's QAbot based on langchain](https://github.com/wandb/wandbot/)
